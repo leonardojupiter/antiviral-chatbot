@@ -14,5 +14,5 @@ Documentações:
 
 Referências:
 
-Para descompactar os arquivos .7z:
+Para descompactar arquivos .7z:
 https://www.7-zip.org/download.html
