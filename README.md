@@ -11,3 +11,6 @@ Por questão de segurança, os números de RA não se encontram nessa página pu
 Documentações:
 
 Referências:
+
+Para descompactar os arquivps .7z:
+https://www.7-zip.org/download.html
