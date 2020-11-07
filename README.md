@@ -1,4 +1,4 @@
-Na data 07/11/20 este repositório público foi criado, com o mesmo conteúdo da versão privada dele, com exceção que os arquivos que possuem referências privadas como token de controle de bot ou acessos internos foram removidos dos arquivos e um comentário indicando foi adicionado no lugar.
+Na data 07/11/20 este repositório público foi criado, com o mesmo conteúdo da versão privada dele, com exceção que os arquivos que possuem referências privadas como token de controle de bot ou acessos internos foram removidos dos arquivos e um comentário indicando o que deve ser adicionado no lugar foi inserido.
 
 Este repositório contém o Projeto em Computação Aplicada orientada por Daniel Ferreira, Universidade Nove de Julho, São Paulo - SP, 2020/2
 
