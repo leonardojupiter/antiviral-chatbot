@@ -6,7 +6,7 @@ Tema: Antiviral Chatbot
 
 Integrantes: Ana Flavia, Diogo Lopes, Eduarda Lima, Leonardo Nascimento, Matheus Correa e Roberta Martins.
 
-Por questão de segurança, os números de RA não se encontram nessa página publica.
+Por questão de segurança, os números de RA não se encontram nessa página pública.
 
 Documentações:
 
