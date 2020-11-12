@@ -20,6 +20,7 @@ Parte 5 - Interação do Usuário:
 
 https://www.youtube.com/watch?v=3C3XMU7zzCw&feature=youtu.be
 
+
 Este repositório contém o Projeto em Computação Aplicada orientada por Daniel Ferreira, Universidade Nove de Julho, São Paulo - SP, 2020/2
 
 Turma: Diurno - Ciência da Computação 08/A
@@ -29,6 +30,7 @@ Tema: Antiviral Chatbot
 Integrantes: Ana Flavia, Diogo Lopes, Eduarda Lima, Leonardo Nascimento, Matheus Correa e Roberta Martins.
 
 Por questões de segurança, os números de RA não se encontram nessa página pública.
+
 
 Documentações:
 
