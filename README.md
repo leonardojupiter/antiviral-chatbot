@@ -72,7 +72,7 @@ Fórum Alura - Flask - ( https://cursos.alura.com.br/forum/topico-ola-flask-nao-
 
 Como enviar o seu projeto para o GitHub - ( https://www.youtube.com/watch?v=S-rX1qG9x_w ) São Paulo, 03 de Outubro de 2020.  
 
-Github - Whatsapp Scraper - ( https://github.com/In-vincible/Whatsapp-Scraper) Sao Paulo, 05 de Outubro de 2020. 
+Github - Whatsapp Scraper - ( https://github.com/In-vincible/Whatsapp-Scraper ) Sao Paulo, 05 de Outubro de 2020. 
  
 Github - COVID-19 Brazil API - ( https://github.com/devarthurribeiro/covid19-brazil-api ) Sao Paulo, 11 de Outubro de 2020. 
 
@@ -83,4 +83,4 @@ Post: Sobre a doença  - Ministério da Saúde - ( https://coronavirus.saude.gov
 Pandemia de Covid-19 - Wikipedia ( https://pt.wikipedia.org/wiki/Pandemia_de_COVID-19 ) São Paulo, 15 de Outubro de 2020. 
 
 7 Zip Org – (
-https://www.7-zip.org/download.html) São Paulo, 12 de novembro de 2020.
+https://www.7-zip.org/download.html ) São Paulo, 12 de novembro de 2020.
