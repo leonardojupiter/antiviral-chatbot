@@ -20,7 +20,7 @@ Parte 5 - Interação do Usuário:
 
 https://www.youtube.com/watch?v=3C3XMU7zzCw&feature=youtu.be
 
-Este repositório contém o Projeto em Computação Aplicada orientada por Daniel Ferreira, Universidade Nove de Julho, São Paulo - SP, 2020/2
+Este repositório contém o PI em Machine Learning orientada por Daniel Ferreira, Universidade Nove de Julho, São Paulo - SP, 2020/2
 
 Turma: Diurno - Ciência da Computação 08/A
 
@@ -30,9 +30,9 @@ Integrantes: Ana Flavia, Diogo Lopes, Eduarda Lima, Leonardo Nascimento, Matheus
 
 Por questões de segurança, os números de RA não se encontram nessa página pública.
 
-Documentações:
-
 Na data 08/12/22 este repositório foi transferido da minha conta antiga leonardo5thworld para minha conta nova leonardojupiter.
+
+Documentações:
 
 Referências:
 
