@@ -84,3 +84,6 @@ Pandemia de Covid-19 - Wikipedia ( https://pt.wikipedia.org/wiki/Pandemia_de_COV
 
 7 Zip Org – (
 https://www.7-zip.org/download.html ) São Paulo, 12 de novembro de 2020.
+
+Na data 08/12/22 este repositório foi transferido da minha conta antiga leonardo5thworld para minha conta nova leonardojupiter.
+
