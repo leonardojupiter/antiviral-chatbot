@@ -26,8 +26,6 @@ Integrantes: Ana Flavia, Diogo Lopes, Eduarda Lima, Leonardo Nascimento, Matheus
 
 Por questões de segurança, os números de RA não se encontram nessa página pública.
 
-Na data 08/12/22 este repositório foi transferido da minha conta antiga leonardo5thworld para minha conta nova leonardojupiter.
-
 Referências:
 
 AHO, A. V.; SETHI, R.; ULLMAN, J. D. Compiladores. Princípios, técnicas e Ferramentas. [s.l.] LTC - Livros Tecnicos e Científicos Editora SA, 1995.
